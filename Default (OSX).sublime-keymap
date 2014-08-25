@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+;"], "command": "toggle_comment", "args": { "block": false } },
+]

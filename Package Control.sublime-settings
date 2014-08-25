@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Better JavaScript",
+		"BracketHighlighter",
+		"Emmet",
+		"Jade",
+		"Jade Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter"
+	]
+}
