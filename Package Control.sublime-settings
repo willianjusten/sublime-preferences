@@ -1,35 +1,23 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Alignment",
 		"All Autocomplete",
-		"Better JavaScript",
-		"BracketHighlighter",
+		"Babel",
 		"Djaneiro",
-		"DocBlockr",
-		"Dotfiles Syntax Highlighting",
-		"EditorConfig",
 		"Emmet",
-		"FileDiffs",
 		"Git",
 		"GitGutter",
-		"Highlight",
-		"Jade",
-		"Jade Snippets",
-		"Jedi - Python autocompletion",
 		"Jekyll",
-		"LESS",
 		"MarkdownEditing",
 		"Package Control",
-		"Pretty JSON",
-		"requirementstxt",
+		"Python Flake8 Lint",
 		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
-		"Stylus-Snippets",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"VAlign"
+		"SublimeCodeIntel"
 	]
 }

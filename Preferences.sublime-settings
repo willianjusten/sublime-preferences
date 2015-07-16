@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"font_face": "monaco",
@@ -9,17 +9,15 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Vintage"
+		"Markdown",
+		"Vintage",
+		"JavaScript"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"rulers": 100,
 	"save_on_focus_lost": true,
-	"scroll_past_end": true,
-	"shift_tab_unindent": true,
-	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"wrap_width": 120
 }
