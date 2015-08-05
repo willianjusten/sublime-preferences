@@ -8,16 +8,21 @@
 		"All Autocomplete",
 		"Babel",
 		"Djaneiro",
+		"DocBlockr",
 		"Emmet",
+		"Emmet Css Snippets",
 		"Git",
 		"GitGutter",
 		"Jekyll",
 		"MarkdownEditing",
 		"Package Control",
 		"Python Flake8 Lint",
+		"ReactJS Snippets",
 		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
 	]
 }
