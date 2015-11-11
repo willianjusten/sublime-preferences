@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -13,16 +14,20 @@
 		"Emmet Css Snippets",
 		"Git",
 		"GitGutter",
+		"Jade",
+		"JavaScript Patterns",
+		"JavaScript Snippets",
 		"Jekyll",
 		"MarkdownEditing",
+		"Mocha Snippets",
 		"Package Control",
 		"Python Flake8 Lint",
-		"ReactJS Snippets",
+		"React ES6 Snippets",
 		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
-		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint"
+		"SublimeLinter-contrib-eslint",
+		"WakaTime"
 	]
 }
