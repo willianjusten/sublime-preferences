@@ -1,3 +1,12 @@
-{
-    "draw_centered": false
+{// Layout
+"draw_centered": false,
+"word_wrap": true,
+"wrap_width": 80,
+"rulers": [],
+
+// Line
+"line_numbers": true,
+"highlight_line": true,
+"line_padding_top": 2,
+"line_padding_bottom": 2
 }
