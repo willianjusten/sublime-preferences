@@ -25,5 +25,6 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
-	"wrap_width": 120
+	"wrap_width": 120,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
 }
