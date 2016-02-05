@@ -1,6 +1,24 @@
 {
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/**",
+		"bower_components/**"
+	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"font_face": "monaco",
@@ -25,6 +43,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": true,
-	"wrap_width": 120,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
+	"wrap_width": 120
 }
