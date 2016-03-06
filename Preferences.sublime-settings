@@ -38,7 +38,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"overlay_scroll_bars": "enabled",
-	"rulers": 100,
+	"rulers": 120,
 	"save_on_focus_lost": true,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
