@@ -1,4 +1,8 @@
 {
+	"Jekyll":
+	{
+		"jekyll_auto_find_paths": true
+	},
 	"binary_file_patterns":
 	[
 		"*.jpg",
